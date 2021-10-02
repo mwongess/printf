@@ -459,7 +459,7 @@ left-justified with a width of 30:
 
 Example `main.c`:
 ```
-#include "holberton.h"
+#include "main.h"
 #include <limits.h>
 
 int main(void)
@@ -476,7 +476,7 @@ Output:
 
 ## Authors :black_nib:
 
-* (cm-amos)Amos Mwongela <[bdbaraban](https://github.com/cm-amos)>
+* (cm-amos)Amos Mwongela <[cm-amos](https://github.com/cm-amos)>
 * Kibangedi <[kibangedi20](https://github.com/kibangedi20)>
 
 ## License :lock:
