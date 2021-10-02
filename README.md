@@ -477,11 +477,8 @@ Output:
 ## Authors :black_nib:
 
 * (cm-amos)Amos Mwongela <[cm-amos](https://github.com/cm-amos)>
-* Kibangedi <[kibagendi20](https://github.com/kibangedi20)>
+* Kibangedi <[kibagendi20](https://github.com/kibagendi20)>
 
-## License :lock:
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## Acknowledgements :pray:
 
