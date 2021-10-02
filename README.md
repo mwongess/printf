@@ -477,7 +477,7 @@ Output:
 ## Authors :black_nib:
 
 * (cm-amos)Amos Mwongela <[cm-amos](https://github.com/cm-amos)>
-* Kibangedi <[kibagebndi20](https://github.com/kibangedi20)>
+* Kibangedi <[kibagendi20](https://github.com/kibangedi20)>
 
 ## License :lock:
 
