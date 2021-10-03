@@ -11,7 +11,7 @@ The `_printf` function was coded on an Ubuntu 14.04 LTS machine with `gcc` versi
 ## Usage :running:
 
 To use the `_printf` function, assuming the above dependencies have been installed,
-compile all `.c` files in the repository and include the header `holberton.h` with
+compile all `.c` files in the repository and include the header `main.h` with
 any main function.
 
 Example `main.c`:
