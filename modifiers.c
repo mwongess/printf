@@ -1,9 +1,4 @@
-/*
- * File: modifiers.c
- * Auth: Brennan D Baraban
- */
-
-#include "holberton.h"
+#include "main.h"
 
 unsigned int print_width(buffer_t *output, unsigned int printed,
 		unsigned char flags, int wid);
